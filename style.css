@@ -116,16 +116,18 @@
 
 .banner3 h1 {
     font-size: 50px;
+    text-align: center;
 }
 
 .banner3 p {
     font-size: 20px;
+    text-align: center;
 }
 
 .d-plan {
     display: flex;
     margin-top: 50px;
-    justify-content: left;
+
 }
 
 .plan {
@@ -145,6 +147,8 @@
 
     font-size: 15px;
     font-weight: 400;
+    text-align: justify;
+
 }
 
 .plan1 {
@@ -157,4 +161,17 @@
 
 .plan3 {
     background-color: bisque;
+}
+
+.sub {
+    text-align: center;
+}
+
+.sub h1 {
+    font-size: 50px;
+}
+
+.sub p {
+    font-size: 20px;
+
 }
